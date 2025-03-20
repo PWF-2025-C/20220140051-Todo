@@ -3,9 +3,14 @@ model user ![mode user](https://github.com/user-attachments/assets/146ee318-b16b
 controller todo![controller todo](https://github.com/user-attachments/assets/53fa64ed-8a87-484f-9b4e-3acba00e5e78)
 controller user ![user controller](https://github.com/user-attachments/assets/46999df3-5c05-4747-9234-51724adfb923)
 list  ![list ](https://github.com/user-attachments/assets/b992b490-c574-424e-9e78-c99aee1ba085)
-dashboard page ![dashboard](https://github.com/user-attachments/assets/7363a8c7-f96c-4361-b5ae-a4281374a26b)
-todo page ![todo page](https://github.com/user-attachments/assets/2ee23fc1-1e2b-42ec-8415-ca01a454fd2a)
-user page ![user page](https://github.com/user-attachments/assets/74b8e002-f895-4ad4-95e5-94bf86b1ac14)
+
+dashboard page desktop ![dashboard](https://github.com/user-attachments/assets/7363a8c7-f96c-4361-b5ae-a4281374a26b)
+dashboard page mobile ![image](https://github.com/user-attachments/assets/d004ec20-7d43-43bf-8c70-cd51f68720c7)
+todo page desktop ![todo page](https://github.com/user-attachments/assets/2ee23fc1-1e2b-42ec-8415-ca01a454fd2a)
+todo page mobile ![image](https://github.com/user-attachments/assets/29d0f8f8-1b36-44a9-ae90-70de67b26a01)
+user page desktop ![user page](https://github.com/user-attachments/assets/74b8e002-f895-4ad4-95e5-94bf86b1ac14)
+user page mobile ![image](https://github.com/user-attachments/assets/e6fa1de0-1f3b-4998-b7ae-82b44e71627c)
+
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
